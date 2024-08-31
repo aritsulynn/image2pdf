@@ -11,9 +11,6 @@ This is a simple Python application that converts images from a specified folder
 
 ## Usage
 
-
-## Usage
-
 To use this application, follow these steps:
 
 1. Clone or download the repository to your local machine.
@@ -26,4 +23,3 @@ To use this application, follow these steps:
 8. After the conversion is complete, the output PDF file will be saved in the same folder as the images.
 
 That's it! You have successfully converted your images into a single PDF file using this application.
-dasda
